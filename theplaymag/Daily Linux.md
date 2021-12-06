@@ -7,5 +7,5 @@ With pop os I got good performance and much better user experience for battery a
 also sometime my laptop fan starting so fast that I have to restart my laptop to fix this.
 
 ### Problems with software store in Linux
-
+ SOftware center is not good because whenever we start they start at startup application and reserve almost 400MB RAM.
 
