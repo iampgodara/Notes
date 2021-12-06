@@ -1,0 +1,97 @@
+{
+  "main": {
+    "id": "87193dd4f99e8016",
+    "type": "split",
+    "children": [
+      {
+        "id": "59d349bc0a66148f",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "theplaymag/Daily Linux.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "7f7fc32e4229d5c0",
+    "type": "split",
+    "children": [
+      {
+        "id": "e6d1697260a45345",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6bad4d0d113a6470",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "b9e847ad891ba93f",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "right": {
+    "id": "92e1172cf77df7c0",
+    "type": "split",
+    "children": [
+      {
+        "id": "f519e101c2512ce5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "757b8cf2d37b7dff",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "theplaymag/Daily Linux.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "59d349bc0a66148f",
+  "lastOpenFiles": [
+    "theplaymag/Daily Linux.md",
+    "theplaymag/Keyword research.md",
+    "2021-12-05.md",
+    "Untitled.md"
+  ]
+}
